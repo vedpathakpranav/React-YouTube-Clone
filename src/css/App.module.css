@@ -1,0 +1,10 @@
+.layout{
+    border: solid red;
+    height: 100vh;
+}
+.mainLayout{
+    border: solid purple;
+    display: flex;
+    height: 90%;
+    
+}
